@@ -1,0 +1,4 @@
+@mixin hline($border:1px green solid, $padding:10px){
+    border:$border;
+    padding:$padding;
+}
